@@ -26,7 +26,7 @@
   
   <groupId>org.commonjava.emb</groupId>
   <artifactId>emb-assembly-descriptors</artifactId>
-  <version>0.5-SNAPSHOT</version>
+  <version>0.5</version>
   
   <name>EMB Assembly Descriptors</name>
   
